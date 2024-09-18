@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jno.
-- 👀 I’m interested in Python Software Development, Web development, and Artificial Intelligence.
+- 👀 I’m interested in Python Software Development, Artificial Intelligence, and Web Development.
 - 🌱 I’m currently learning Python Software Development and Web Development.
 - 💞️ I’m looking to collaborate on Entry-Level Python Software Development tasks.
 - 📫 How to reach me: https://www.linkedin.com/in/jno-c-10b923238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7t7urNdRRga%2BETkJVPyI4w%3D%3D
